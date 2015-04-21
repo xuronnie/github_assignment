@@ -24,8 +24,8 @@ Instructions:
 
 <table border=1>
 <tr>
-  <td>First Name</td>
-  <td>Last Name Initial</td>
+  <td>First Name: Ronnie</td>
+  <td>Last Name Initial: X</td>
 </tr>
 <tr>
   <td>Craig</td>
